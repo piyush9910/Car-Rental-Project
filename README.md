@@ -62,4 +62,4 @@ Admin Module
 ![10](https://user-images.githubusercontent.com/54396900/126871159-f1207d7b-b21c-4248-9750-ac43adf2b557.png)
 
 
-Thankyou. You can cpntribute to project.
+Thankyou. You can contribute to project.
